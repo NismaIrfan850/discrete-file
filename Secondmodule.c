@@ -15,7 +15,7 @@ for(int i=0;i<rows;i++)
         students[i][j]="0";
     }  
 }
-ifstream inputfile("C:/Users/Dell/Downloads/Friends Dataset.csv");
+ifstream inputfile("C:/Users/hp/Downloads/Friends Dataset.csv");
 string line,person;
 int index=0;
 while(getline(inputfile,line)&&index<rows)
