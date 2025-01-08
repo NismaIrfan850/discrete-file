@@ -28,7 +28,7 @@ int main()
     {
         if(connectivity[i]==max)
         {
-            cout<<data[i][0]<<"with"<<connectivity[i]<<" connections"<<endl;
+            cout<<data[i][0]<<"with"<<connectivity[i]<<" connectivity"<<endl;
         }
     }
     return 0;
