@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    const int ROWS = 40;
+    const int ROWS = 41;
     const int COLUMN = 6;
     const int alpha = 2; 
     string data[ROWS][COLUMN] = {};
